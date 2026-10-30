@@ -1,0 +1,44 @@
+CREDIT RISK ANALYSIS SYSTEM
+
+PROJECT DOMAIN:
+Data Science and Machine Learning
+
+PROJECT OBJECTIVE:
+To analyze customer financial data, predict loan approval status, identify credit risk categories, and generate loan recommendations using Machine Learning.
+
+MODULES:
+
+MODULE 1 – DATA COLLECTION AND PREPROCESSING
+
+MODULE 2 – EXPLORATORY DATA ANALYSIS (EDA)
+
+MODULE 3 – CREDIT RISK PREDICTION MODEL
+
+MODULE 4 – RISK SCORE DASHBOARD
+
+MODULE 5 – FINAL RECOMMENDATION SYSTEM
+
+TECHNOLOGIES USED:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+MACHINE LEARNING ALGORITHMS:
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+PROJECT OUTPUT:
+
+- Loan Status Prediction
+- Customer Risk Category
+- Loan Approval Probability
+- Final Loan Recommendation
+
+Presented By: Maha
